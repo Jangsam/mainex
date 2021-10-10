@@ -4,5 +4,7 @@ public class HelloSpring {
 	public static void main(String[] ar) {
 		MyBean bean = new MyBean();
 		bean.sayHello("Spring");
+		
+		System.out.println("git 연습");
 	}
 }
